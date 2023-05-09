@@ -14,4 +14,4 @@ Myndir frá byrjunn til enda.
 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src= https://github.com/Kjartan06/Robot-bill/blob/main/Redo/trim.3040B4F0-17BF-4603-9B7D-741817E5D354.MOV frameborder="0" allowfullscreen></iframe>
