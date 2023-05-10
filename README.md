@@ -9,6 +9,9 @@ Myndir og video frá byrjunn til enda.
 <img src= https://github.com/Kjartan06/Robot-bill/blob/main/Redo/IMG_6873%20(1).JPG width="25%" height="25%">
 <img src= https://github.com/Kjartan06/Robot-bill/blob/main/Redo/IMG_6874%20(1).JPG width="25%" height="25%">
 <img src= https://github.com/Kjartan06/Robot-bill/blob/main/Redo/IMG_6875%20(1).JPG width="25%" height="25%">
+
+## Vifta
+
 <img src= https://github.com/Kjartan06/Robot-bill/blob/main/Redo/IMG_6876%20(1).JPG width="25%" height="25%">
 
 
