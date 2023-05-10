@@ -1,6 +1,6 @@
 # Robot-bill
 í þessu verkefni voru Kjartan og Kári að búa til sjálfstýrðann bíll.
-Myndir frá byrjunn til enda.
+Myndir og video frá byrjunn til enda.
 
 
 <img src= https://github.com/Kjartan06/Robot-bill/blob/main/Redo/04E06FA5-2544-491D-9DF9-96B246FAB65C%20(1).JPG width="25%" height="25%">
@@ -14,4 +14,14 @@ Myndir frá byrjunn til enda.
 
 
 
-<iframe width="560" height="315" src= https://github.com/Kjartan06/Robot-bill/blob/main/Redo/trim.3040B4F0-17BF-4603-9B7D-741817E5D354.MOV frameborder="0" allowfullscreen></iframe>
+https://youtu.be/14jLovC3b-A 
+
+https://youtube.com/shorts/2BM3F2wiUng?feature=share
+
+https://youtube.com/shorts/jOf2vVVR1S8?feature=share 
+
+https://youtu.be/GT7ONYEDPDI
+
+
+
+
